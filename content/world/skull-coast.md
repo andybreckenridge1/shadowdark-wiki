@@ -1,0 +1,1 @@
+The ruined coastline of the former Assyrian Empire, named for the countless bones that littered its shores following the Great War. Crumbling castles, abandoned harbors, and fallen lighthouses now shelter orcs, gnolls, undead, and remnants of the Horde.

@@ -1,0 +1,1 @@
+A mysterious Dark Lord who rules from an island fortress in the Aegean Sea. Little is known of his origins or identity. His authority extends beyond his island through the activities of his servants, most notably Master Karos.

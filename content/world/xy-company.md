@@ -1,0 +1,1 @@
+A mercenary company based in Lydos specializing in maritime services, including escorting merchant vessels, wreck recovery, and hunting pirates. The company is not above engaging in piracy itself when the price is right. Its ranks include experienced sailors, archers, and marines. The company is rumored to trace its origins to an Assyrian naval regiment.

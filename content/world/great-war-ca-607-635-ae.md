@@ -1,0 +1,1 @@
+A devastating war following the Great Cataclysm. The Assyrian sorcerer Lucius unleashed the Horde, destroying kingdoms and bringing about the collapse of the Assyrian Empire. The war ended at the Battle of Troy one hundred years ago.

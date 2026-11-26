@@ -1,0 +1,1 @@
+The collective name given to the vast armies of orcs, gnolls, goblins, cyclopes, and other creatures assembled by Lucius during the Great War. Following his defeat, Anatolia was lost to the Horde which fragmented into rival tribes, armies, and petty kingdoms. The southern Balkans dissolved into city-states.

@@ -1,0 +1,1 @@
+Once a mighty empire stretching from the Balkan Peninsula to the valleys of the Tigris and Euphrates. It collapsed during the Great War, leaving behind warring city states in the Balkans, and a wilderness overrun by monsters and beasts in Anatolia.

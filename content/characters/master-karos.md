@@ -1,0 +1,1 @@
+The right hand of Archon and enforcer of his will. Karos is a towering giant of a man with cracked, ash-black skin who carries a greatsword whose pommel glows like hot iron. He commanded the expedition to the Skull Coast, employing the XY Company to oversee and protect his excavation crews. The purpose of his excavations remains unknown.

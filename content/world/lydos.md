@@ -1,0 +1,1 @@
+Known as the Great City, Lydos is the largest city in the known world and survived the Great War largely intact. A wealthy but politically fractured city-state, its boroughs are controlled by competing factions.

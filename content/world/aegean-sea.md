@@ -1,0 +1,1 @@
+A sea scattered with thousands of islands, few of which remain substantially inhabited. Many were devastated during the Great Cataclysm and are now home to pirates, isolated communities, wyverns, and other dangerous creatures.
