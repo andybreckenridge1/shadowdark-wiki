@@ -1,0 +1,292 @@
+[
+  {
+    "id": "prologue",
+    "section": "chronicles",
+    "title": "Prologue",
+    "path": "content/chronicles/prologue.md",
+    "summary": "The expedition and the discovery of the sunburst doors.",
+    "aliases": [],
+    "image": "images/demre.jpg",
+    "group": null,
+    "sheet": null
+  },
+  {
+    "id": "session-01",
+    "section": "chronicles",
+    "title": "Session 1: Through the Sunburst Doors",
+    "path": "content/chronicles/session-01.md",
+    "summary": "The party explores the buried complex.",
+    "aliases": [],
+    "image": null,
+    "group": null,
+    "sheet": null
+  },
+  {
+    "id": "aegean-sea",
+    "section": "world",
+    "title": "Aegean Sea",
+    "path": "content/world/aegean-sea.md",
+    "summary": "A sea scattered with thousands of islands, few of which remain substantially inhabited. Many were devastated during the Great Cataclysm and are now home to pirates, isolated communities, wyverns, and other dangerous creatures.",
+    "aliases": [],
+    "image": null,
+    "group": "Locations",
+    "sheet": null
+  },
+  {
+    "id": "lydos",
+    "section": "world",
+    "title": "Lydos",
+    "path": "content/world/lydos.md",
+    "summary": "Known as the Great City, Lydos is the largest city in the known world and survived the Great War largely intact. A wealthy but politically fractured city-state, its boroughs are controlled by competing factions.",
+    "aliases": [],
+    "image": null,
+    "group": "Locations",
+    "sheet": null
+  },
+  {
+    "id": "skull-coast",
+    "section": "world",
+    "title": "Skull Coast",
+    "path": "content/world/skull-coast.md",
+    "summary": "The ruined coastline of the former Assyrian Empire, named for the countless bones that littered its shores following the Great War. Crumbling castles, abandoned harbors, and fallen lighthouses now shelter orcs, gnolls, undead, and remnants of the Horde.",
+    "aliases": [],
+    "image": "images/skull-coast.jpg",
+    "group": "Locations",
+    "sheet": null
+  },
+  {
+    "id": "assyrian-empire",
+    "section": "world",
+    "title": "Assyrian Empire",
+    "path": "content/world/assyrian-empire.md",
+    "summary": "Once a mighty empire stretching from the Balkan Peninsula to the valleys of the Tigris and Euphrates. It collapsed during the Great War, leaving behind warring city states in the Balkans, and a wilderness overrun by monsters and beasts in Anatolia.",
+    "aliases": [],
+    "image": null,
+    "group": "History",
+    "sheet": null
+  },
+  {
+    "id": "demre-canyon",
+    "section": "world",
+    "title": "Demre Canyon",
+    "path": "content/world/demre-canyon.md",
+    "summary": "A canyon along the Skull Coast containing ancient landslide deposits that bury remnants of the former civilization. Master Karos led an excavation expedition here.",
+    "aliases": [],
+    "image": "images/demre.jpg",
+    "group": "Locations",
+    "sheet": null
+  },
+  {
+    "id": "great-cataclysm-607-ae",
+    "section": "world",
+    "title": "Great Cataclysm (607 AE)",
+    "path": "content/world/great-cataclysm-607-ae.md",
+    "summary": "A series of natural disasters that shattered the ancient world 128 years ago. The volcanic island of Santorin, home to one of the three great dwarven kingdoms, erupted catastrophically and triggered a tsunami that wrecked coastal settlements throughout the Aegean. Massive earthquakes devastated Anatolia and the Balkans. Comets streaked across the heavens, and tremendous airbursts rained fire upon the earth, igniting widespread wildfires. The cause of these disasters remains disputed. The Great War followed the Cataclysm.",
+    "aliases": [
+      "Great Cataclysm"
+    ],
+    "image": null,
+    "group": "History",
+    "sheet": null
+  },
+  {
+    "id": "xy-company",
+    "section": "world",
+    "title": "XY Company",
+    "path": "content/world/xy-company.md",
+    "summary": "A mercenary company based in Lydos specializing in maritime services, including escorting merchant vessels, wreck recovery, and hunting pirates. The company is not above engaging in piracy itself when the price is right. Its ranks include experienced sailors, archers, and marines. The company is rumored to trace its origins to an Assyrian naval regiment.",
+    "aliases": [],
+    "image": null,
+    "group": "Factions",
+    "sheet": null
+  },
+  {
+    "id": "master-archon",
+    "section": "characters",
+    "title": "Master Archon",
+    "path": "content/characters/master-archon.md",
+    "summary": "A mysterious Dark Lord who rules from an island fortress in the Aegean Sea. Little is known of his origins or identity. His authority extends beyond his island through the activities of his servants, most notably Master Karos.",
+    "aliases": [
+      "Archon"
+    ],
+    "image": null,
+    "group": "NPCs",
+    "sheet": null
+  },
+  {
+    "id": "master-karos",
+    "section": "characters",
+    "title": "Master Karos",
+    "path": "content/characters/master-karos.md",
+    "summary": "The right hand of Archon and enforcer of his will. Karos is a towering giant of a man with cracked, ash-black skin who carries a greatsword whose pommel glows like hot iron. He commanded the expedition to the Skull Coast, employing the XY Company to oversee and protect his excavation crews. The purpose of his excavations remains unknown.",
+    "aliases": [
+      "Karos"
+    ],
+    "image": "images/karos.png",
+    "group": "NPCs",
+    "sheet": null
+  },
+  {
+    "id": "great-war-ca-607-635-ae",
+    "section": "world",
+    "title": "Great War (ca. 607–635 AE)",
+    "path": "content/world/great-war-ca-607-635-ae.md",
+    "summary": "A devastating war following the Great Cataclysm. The Assyrian sorcerer Lucius unleashed the Horde, destroying kingdoms and bringing about the collapse of the Assyrian Empire. The war ended at the Battle of Troy one hundred years ago.",
+    "aliases": [
+      "Great War"
+    ],
+    "image": null,
+    "group": "History",
+    "sheet": null
+  },
+  {
+    "id": "the-horde",
+    "section": "world",
+    "title": "The Horde",
+    "path": "content/world/the-horde.md",
+    "summary": "The collective name given to the vast armies of orcs, gnolls, goblins, cyclopes, and other creatures assembled by Lucius during the Great War. Following his defeat, Anatolia was lost to the Horde which fragmented into rival tribes, armies, and petty kingdoms. The southern Balkans dissolved into city-states.",
+    "aliases": [],
+    "image": null,
+    "group": "Factions",
+    "sheet": null
+  },
+  {
+    "id": "santorin",
+    "section": "world",
+    "title": "Santorin",
+    "path": "content/world/santorin.md",
+    "summary": "A volcanic island in the Aegean Sea that was once home to one of the three great dwarven kingdoms. Its catastrophic eruption in 607 AE marked the beginning of the Great Cataclysm.",
+    "aliases": [],
+    "image": null,
+    "group": "Locations",
+    "sheet": null
+  },
+  {
+    "id": "ernie",
+    "section": "characters",
+    "title": "Ernie",
+    "path": "content/characters/ernie.md",
+    "summary": "Half-orc barbarian and former bouncer / prize fighter.",
+    "aliases": [],
+    "image": null,
+    "group": "Player characters",
+    "sheet": "sheets/ernie.pdf"
+  },
+  {
+    "id": "bert",
+    "section": "characters",
+    "title": "Bert",
+    "path": "content/characters/bert.md",
+    "summary": "Mutant priest with the Demonic Connection mutation.",
+    "aliases": [],
+    "image": null,
+    "group": "Player characters",
+    "sheet": "sheets/bert.pdf"
+  },
+  {
+    "id": "kayne",
+    "section": "characters",
+    "title": "Kayne",
+    "path": "content/characters/kayne.md",
+    "summary": "Dwarf wizard and scholar, also known as Kanye.",
+    "aliases": [
+      "Kanye",
+      "Kan-ye"
+    ],
+    "image": null,
+    "group": "Player characters",
+    "sheet": "sheets/kayne.pdf"
+  },
+  {
+    "id": "hop",
+    "section": "characters",
+    "title": "Hop",
+    "path": "content/characters/hop.md",
+    "summary": "Hop turned invisible and scouted outside during Session 1. No character sheet has been supplied.",
+    "aliases": [],
+    "image": null,
+    "group": "Other known characters",
+    "sheet": null
+  },
+  {
+    "id": "lucius-telius-felix",
+    "section": "characters",
+    "title": "Lucius Telius Felix",
+    "path": "content/characters/lucius-telius-felix.md",
+    "summary": "Named in the visitor logbook. His locker contained everything listed in the logbook.",
+    "aliases": [],
+    "image": null,
+    "group": "Other known characters",
+    "sheet": null
+  },
+  {
+    "id": "decimus-varenus",
+    "section": "characters",
+    "title": "Decimus Varenus",
+    "path": "content/characters/decimus-varenus.md",
+    "summary": "Named in the visitor logbook. A shortsword and dagger appeared to have been removed from his locker, leaving a bow.",
+    "aliases": [],
+    "image": null,
+    "group": "Other known characters",
+    "sheet": null
+  },
+  {
+    "id": "visitor-logbook",
+    "section": "artifacts",
+    "title": "Visitor logbook",
+    "path": "content/artifacts/visitor-logbook.md",
+    "summary": "Discovered in the locker room. The most recent entries dated to the Great Cataclysm, 128 years earlier, according to Kayne.",
+    "aliases": [
+      "logbook"
+    ],
+    "image": null,
+    "group": "Discoveries",
+    "sheet": null
+  },
+  {
+    "id": "sunburst-doors",
+    "section": "artifacts",
+    "title": "Sunburst doors",
+    "path": "content/artifacts/sunburst-doors.md",
+    "summary": "Massive double doors decorated with a sunburst, discovered by the excavation crew. Beyond them stood statues of three Muses and a suspended crystal tetrahedron.",
+    "aliases": [
+      "great sunburst doors"
+    ],
+    "image": null,
+    "group": "Discoveries",
+    "sheet": null
+  },
+  {
+    "id": "crystal-tetrahedron",
+    "section": "artifacts",
+    "title": "Crystal tetrahedron",
+    "path": "content/artifacts/crystal-tetrahedron.md",
+    "summary": "A great crystal tetrahedron suspended from the high ceiling beyond the sunburst doors.",
+    "aliases": [],
+    "image": null,
+    "group": "Discoveries",
+    "sheet": null
+  },
+  {
+    "id": "cedar-box",
+    "section": "artifacts",
+    "title": "Cedar box",
+    "path": "content/artifacts/cedar-box.md",
+    "summary": "Found with a desk in the library, where the party discovered a cataloging system.",
+    "aliases": [],
+    "image": null,
+    "group": "Discoveries",
+    "sheet": null
+  },
+  {
+    "id": "world-map",
+    "section": "world",
+    "title": "Map of the known world",
+    "path": "content/world/world-map.md",
+    "summary": "Player-facing world map.",
+    "aliases": [],
+    "image": "images/world-map.jpg",
+    "group": "Maps",
+    "sheet": null
+  }
+]
