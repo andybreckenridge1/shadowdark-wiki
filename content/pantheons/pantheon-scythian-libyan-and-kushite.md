@@ -1,0 +1,1 @@
+Scythian priests teach that the gods and goddesses are manifestations of a single divine being, the Many-Faced God. Good and evil, creation and destruction, and order and chaos are two sides of the same coin. The priesthood seeks to maintain balance rather than the triumph of one force over another. Libyans follow the Three Pillars. Kushites have their own gods and traditions.

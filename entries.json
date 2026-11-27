@@ -22,6 +22,138 @@
     "sheet": null
   },
   {
+    "id": "escape-skull-coast",
+    "section": "quests",
+    "title": "Escape the Skull Coast",
+    "group": "Active quests",
+    "path": "content/quests/escape-skull-coast.md",
+    "summary": "Although the attack on Karos’s expedition provided an opportunity to escape captivity, the party remains stranded on the Skull Coast—a dangerous wilderness.",
+    "aliases": [],
+    "image": null,
+    "sheet": null
+  },
+  {
+    "id": "karos-demre-secrets",
+    "section": "quests",
+    "title": "Karos and the Secrets of Demre Canyon",
+    "group": "Active quests",
+    "path": "content/quests/karos-demre-secrets.md",
+    "summary": "Master Archon and Karos committed considerable resources to excavating the ancient landslides of Demre Canyon – why? The underground complex containing statues of the Muses and a great library raises numerous questions.",
+    "aliases": [],
+    "image": null,
+    "sheet": null
+  },
+  {
+    "id": "ernie",
+    "section": "characters",
+    "title": "Ernie",
+    "path": "content/characters/ernie.md",
+    "summary": "Half-orc barbarian and former bouncer / prize fighter.",
+    "aliases": [],
+    "image": null,
+    "group": "Player characters",
+    "sheet": "sheets/ernie.pdf"
+  },
+  {
+    "id": "bert",
+    "section": "characters",
+    "title": "Bert",
+    "path": "content/characters/bert.md",
+    "summary": "Mutant priest with the Demonic Connection mutation.",
+    "aliases": [],
+    "image": null,
+    "group": "Player characters",
+    "sheet": "sheets/bert.pdf"
+  },
+  {
+    "id": "kayne",
+    "section": "characters",
+    "title": "Kayne (aka Kanye)",
+    "path": "content/characters/kayne.md",
+    "summary": "Dwarf wizard and scholar, also known as Kanye.",
+    "aliases": [
+      "Kanye",
+      "Kayne",
+      "Kan-ye"
+    ],
+    "image": null,
+    "group": "Player characters",
+    "sheet": "sheets/kayne.pdf"
+  },
+  {
+    "id": "hop",
+    "section": "characters",
+    "title": "Hop Fidl'fun",
+    "path": "content/characters/hop.md",
+    "summary": "Halfling bard, circus performer, entertainer and actor. Level 1.",
+    "aliases": [
+      "Hop",
+      "Hop Fidlfun"
+    ],
+    "image": null,
+    "group": "Player characters",
+    "sheet": "sheets/hop.pdf"
+  },
+  {
+    "id": "master-archon",
+    "section": "characters",
+    "title": "Master Archon",
+    "path": "content/characters/master-archon.md",
+    "summary": "A mysterious Dark Lord who rules from an island fortress in the Aegean Sea. Little is known of his origins or identity. His authority extends beyond his island through the activities of his servants, most notably Master Karos.",
+    "aliases": [
+      "Archon"
+    ],
+    "image": null,
+    "group": "NPCs",
+    "sheet": null
+  },
+  {
+    "id": "master-karos",
+    "section": "characters",
+    "title": "Master Karos",
+    "path": "content/characters/master-karos.md",
+    "summary": "The right hand of Archon and enforcer of his will. Karos is a towering giant of a man with cracked, ash-black skin who carries a greatsword whose pommel glows like hot iron. He commanded the expedition to the Skull Coast, employing the XY Company to oversee and protect his excavation crews. The purpose of his excavations remains unknown.",
+    "aliases": [
+      "Karos"
+    ],
+    "image": "images/karos.png",
+    "group": "NPCs",
+    "sheet": null
+  },
+  {
+    "id": "lucius-telius-felix",
+    "section": "characters",
+    "title": "Lucius Telius Felix",
+    "path": "content/characters/lucius-telius-felix.md",
+    "summary": "Named in the visitor logbook. His locker contained everything listed in the logbook.",
+    "aliases": [],
+    "image": null,
+    "group": "Other known characters",
+    "sheet": null
+  },
+  {
+    "id": "decimus-varenus",
+    "section": "characters",
+    "title": "Decimus Varenus",
+    "path": "content/characters/decimus-varenus.md",
+    "summary": "Named in the visitor logbook. A shortsword and dagger appeared to have been removed from his locker, leaving a bow.",
+    "aliases": [],
+    "image": null,
+    "group": "Other known characters",
+    "sheet": null
+  },
+  {
+    "id": "world-map",
+    "section": "world",
+    "title": "Map of the known world",
+    "path": "content/world/world-map.md",
+    "summary": "Player-facing world map.",
+    "aliases": [],
+    "image": "images/world-map.jpg",
+    "group": "Maps",
+    "sheet": null
+  },
+  {
     "id": "aegean-sea",
     "section": "world",
     "title": "Aegean Sea",
@@ -55,17 +187,6 @@
     "sheet": null
   },
   {
-    "id": "assyrian-empire",
-    "section": "world",
-    "title": "Assyrian Empire",
-    "path": "content/world/assyrian-empire.md",
-    "summary": "Once a mighty empire stretching from the Balkan Peninsula to the valleys of the Tigris and Euphrates. It collapsed during the Great War, leaving behind warring city states in the Balkans, and a wilderness overrun by monsters and beasts in Anatolia.",
-    "aliases": [],
-    "image": null,
-    "group": "History",
-    "sheet": null
-  },
-  {
     "id": "demre-canyon",
     "section": "world",
     "title": "Demre Canyon",
@@ -77,6 +198,28 @@
     "sheet": null
   },
   {
+    "id": "santorin",
+    "section": "world",
+    "title": "Santorin",
+    "path": "content/world/santorin.md",
+    "summary": "A volcanic island in the Aegean Sea that was once home to one of the three great dwarven kingdoms. Its catastrophic eruption in 607 AE marked the beginning of the Great Cataclysm.",
+    "aliases": [],
+    "image": null,
+    "group": "Locations",
+    "sheet": null
+  },
+  {
+    "id": "assyrian-empire",
+    "section": "world",
+    "title": "Assyrian Empire",
+    "path": "content/world/assyrian-empire.md",
+    "summary": "Once a mighty empire stretching from the Balkan Peninsula to the valleys of the Tigris and Euphrates. It collapsed during the Great War, leaving behind warring city states in the Balkans, and a wilderness overrun by monsters and beasts in Anatolia.",
+    "aliases": [],
+    "image": null,
+    "group": "History",
+    "sheet": null
+  },
+  {
     "id": "great-cataclysm-607-ae",
     "section": "world",
     "title": "Great Cataclysm (607 AE)",
@@ -84,6 +227,19 @@
     "summary": "A series of natural disasters that shattered the ancient world 128 years ago. The volcanic island of Santorin, home to one of the three great dwarven kingdoms, erupted catastrophically and triggered a tsunami that wrecked coastal settlements throughout the Aegean. Massive earthquakes devastated Anatolia and the Balkans. Comets streaked across the heavens, and tremendous airbursts rained fire upon the earth, igniting widespread wildfires. The cause of these disasters remains disputed. The Great War followed the Cataclysm.",
     "aliases": [
       "Great Cataclysm"
+    ],
+    "image": null,
+    "group": "History",
+    "sheet": null
+  },
+  {
+    "id": "great-war-ca-607-635-ae",
+    "section": "world",
+    "title": "Great War (ca. 607–635 AE)",
+    "path": "content/world/great-war-ca-607-635-ae.md",
+    "summary": "A devastating war following the Great Cataclysm. The Assyrian sorcerer Lucius unleashed the Horde, destroying kingdoms and bringing about the collapse of the Assyrian Empire. The war ended at the Battle of Troy one hundred years ago.",
+    "aliases": [
+      "Great War"
     ],
     "image": null,
     "group": "History",
@@ -101,45 +257,6 @@
     "sheet": null
   },
   {
-    "id": "master-archon",
-    "section": "characters",
-    "title": "Master Archon",
-    "path": "content/characters/master-archon.md",
-    "summary": "A mysterious Dark Lord who rules from an island fortress in the Aegean Sea. Little is known of his origins or identity. His authority extends beyond his island through the activities of his servants, most notably Master Karos.",
-    "aliases": [
-      "Archon"
-    ],
-    "image": null,
-    "group": "NPCs",
-    "sheet": null
-  },
-  {
-    "id": "master-karos",
-    "section": "characters",
-    "title": "Master Karos",
-    "path": "content/characters/master-karos.md",
-    "summary": "The right hand of Archon and enforcer of his will. Karos is a towering giant of a man with cracked, ash-black skin who carries a greatsword whose pommel glows like hot iron. He commanded the expedition to the Skull Coast, employing the XY Company to oversee and protect his excavation crews. The purpose of his excavations remains unknown.",
-    "aliases": [
-      "Karos"
-    ],
-    "image": "images/karos.png",
-    "group": "NPCs",
-    "sheet": null
-  },
-  {
-    "id": "great-war-ca-607-635-ae",
-    "section": "world",
-    "title": "Great War (ca. 607–635 AE)",
-    "path": "content/world/great-war-ca-607-635-ae.md",
-    "summary": "A devastating war following the Great Cataclysm. The Assyrian sorcerer Lucius unleashed the Horde, destroying kingdoms and bringing about the collapse of the Assyrian Empire. The war ended at the Battle of Troy one hundred years ago.",
-    "aliases": [
-      "Great War"
-    ],
-    "image": null,
-    "group": "History",
-    "sheet": null
-  },
-  {
     "id": "the-horde",
     "section": "world",
     "title": "The Horde",
@@ -151,83 +268,137 @@
     "sheet": null
   },
   {
-    "id": "santorin",
-    "section": "world",
-    "title": "Santorin",
-    "path": "content/world/santorin.md",
-    "summary": "A volcanic island in the Aegean Sea that was once home to one of the three great dwarven kingdoms. Its catastrophic eruption in 607 AE marked the beginning of the Great Cataclysm.",
+    "id": "pantheon-overview",
+    "section": "pantheons",
+    "title": "Gods and Pantheons",
+    "group": "Introduction",
+    "path": "content/pantheons/pantheon-overview.md",
+    "summary": "The Great Cataclysm and the Great War transformed religion throughout the former Assyrian Empire.",
     "aliases": [],
     "image": null,
-    "group": "Locations",
     "sheet": null
   },
   {
-    "id": "ernie",
-    "section": "characters",
-    "title": "Ernie",
-    "path": "content/characters/ernie.md",
-    "summary": "Half-orc barbarian and former bouncer / prize fighter.",
+    "id": "pantheon-hercules",
+    "section": "pantheons",
+    "title": "Hercules",
+    "group": "Principal deities",
+    "path": "content/pantheons/pantheon-hercules.md",
+    "summary": "Son of Zeus, barbarian warrior and defender of humankind.",
     "aliases": [],
     "image": null,
-    "group": "Player characters",
-    "sheet": "sheets/ernie.pdf"
+    "sheet": null
   },
   {
-    "id": "bert",
-    "section": "characters",
-    "title": "Bert",
-    "path": "content/characters/bert.md",
-    "summary": "Mutant priest with the Demonic Connection mutation.",
+    "id": "pantheon-athena",
+    "section": "pantheons",
+    "title": "Athena",
+    "group": "Principal deities",
+    "path": "content/pantheons/pantheon-athena.md",
+    "summary": "Goddess of wisdom, strategy, learning, and civilization; patron of scholars, soldiers, rulers, judges, and craftsmen.",
     "aliases": [],
     "image": null,
-    "group": "Player characters",
-    "sheet": "sheets/bert.pdf"
+    "sheet": null
   },
   {
-    "id": "kayne",
-    "section": "characters",
-    "title": "Kayne",
-    "path": "content/characters/kayne.md",
-    "summary": "Dwarf wizard and scholar, also known as Kanye.",
+    "id": "pantheon-the-gray-mouse",
+    "section": "pantheons",
+    "title": "The Gray Mouse",
+    "group": "Principal deities",
+    "path": "content/pantheons/pantheon-the-gray-mouse.md",
+    "summary": "Halfling thief and hero slain at Troy.",
     "aliases": [
-      "Kanye",
-      "Kan-ye"
+      "Gray Mouse"
     ],
     "image": null,
-    "group": "Player characters",
-    "sheet": "sheets/kayne.pdf"
-  },
-  {
-    "id": "hop",
-    "section": "characters",
-    "title": "Hop",
-    "path": "content/characters/hop.md",
-    "summary": "Hop turned invisible and scouted outside during Session 1. No character sheet has been supplied.",
-    "aliases": [],
-    "image": null,
-    "group": "Other known characters",
     "sheet": null
   },
   {
-    "id": "lucius-telius-felix",
-    "section": "characters",
-    "title": "Lucius Telius Felix",
-    "path": "content/characters/lucius-telius-felix.md",
-    "summary": "Named in the visitor logbook. His locker contained everything listed in the logbook.",
+    "id": "pantheon-alleah",
+    "section": "pantheons",
+    "title": "Alleah",
+    "group": "Principal deities",
+    "path": "content/pantheons/pantheon-alleah.md",
+    "summary": "Warrior-priestess of Athena, martyr, protector, healer, and defender of the good.",
     "aliases": [],
     "image": null,
-    "group": "Other known characters",
     "sheet": null
   },
   {
-    "id": "decimus-varenus",
-    "section": "characters",
-    "title": "Decimus Varenus",
-    "path": "content/characters/decimus-varenus.md",
-    "summary": "Named in the visitor logbook. A shortsword and dagger appeared to have been removed from his locker, leaving a bow.",
+    "id": "pantheon-egyptian",
+    "section": "pantheons",
+    "title": "Egyptian",
+    "group": "Other faiths and traditions",
+    "path": "content/pantheons/pantheon-egyptian.md",
+    "summary": "Priestesses led the revolt against Assyrian rule in 630 AE.",
     "aliases": [],
     "image": null,
-    "group": "Other known characters",
+    "sheet": null
+  },
+  {
+    "id": "pantheon-saxon-and-norse",
+    "section": "pantheons",
+    "title": "Saxon and Norse",
+    "group": "Other faiths and traditions",
+    "path": "content/pantheons/pantheon-saxon-and-norse.md",
+    "summary": "Norse and Saxon peoples honor the ancient Germanic gods.",
+    "aliases": [],
+    "image": null,
+    "sheet": null
+  },
+  {
+    "id": "pantheon-celtic",
+    "section": "pantheons",
+    "title": "Celtic",
+    "group": "Other faiths and traditions",
+    "path": "content/pantheons/pantheon-celtic.md",
+    "summary": "Celtic gods are connected to nature, including the sun, rivers, and forests; druids are their religious leaders.",
+    "aliases": [],
+    "image": null,
+    "sheet": null
+  },
+  {
+    "id": "pantheon-scythian-libyan-and-kushite",
+    "section": "pantheons",
+    "title": "Scythian, Libyan and Kushite",
+    "group": "Other faiths and traditions",
+    "path": "content/pantheons/pantheon-scythian-libyan-and-kushite.md",
+    "summary": "Scythian priests teach that the gods and goddesses are manifestations of a single divine being, the Many-Faced God.",
+    "aliases": [],
+    "image": null,
+    "sheet": null
+  },
+  {
+    "id": "pantheon-demi-human-pantheons",
+    "section": "pantheons",
+    "title": "Demi-human pantheons",
+    "group": "Demi-human pantheons",
+    "path": "content/pantheons/pantheon-demi-human-pantheons.md",
+    "summary": "Dwarven and halfling mythology survives alongside the newer heroic cults.",
+    "aliases": [],
+    "image": null,
+    "sheet": null
+  },
+  {
+    "id": "pantheon-dwarven-gods",
+    "section": "pantheons",
+    "title": "Dwarven gods",
+    "group": "Demi-human pantheons",
+    "path": "content/pantheons/pantheon-dwarven-gods.md",
+    "summary": "Moradin — The Soul Forger, creator of the dwarves and patron of smithing, craftsmanship, and creation..",
+    "aliases": [],
+    "image": null,
+    "sheet": null
+  },
+  {
+    "id": "pantheon-halfling-gods",
+    "section": "pantheons",
+    "title": "Halfling gods",
+    "group": "Demi-human pantheons",
+    "path": "content/pantheons/pantheon-halfling-gods.md",
+    "summary": "Yondalla — Mother and protector of the halfling people, associated with fertility, prosperity, and community..",
+    "aliases": [],
+    "image": null,
     "sheet": null
   },
   {
@@ -241,52 +412,6 @@
     ],
     "image": null,
     "group": "Discoveries",
-    "sheet": null
-  },
-  {
-    "id": "sunburst-doors",
-    "section": "artifacts",
-    "title": "Sunburst doors",
-    "path": "content/artifacts/sunburst-doors.md",
-    "summary": "Massive double doors decorated with a sunburst, discovered by the excavation crew. Beyond them stood statues of three Muses and a suspended crystal tetrahedron.",
-    "aliases": [
-      "great sunburst doors"
-    ],
-    "image": null,
-    "group": "Discoveries",
-    "sheet": null
-  },
-  {
-    "id": "crystal-tetrahedron",
-    "section": "artifacts",
-    "title": "Crystal tetrahedron",
-    "path": "content/artifacts/crystal-tetrahedron.md",
-    "summary": "A great crystal tetrahedron suspended from the high ceiling beyond the sunburst doors.",
-    "aliases": [],
-    "image": null,
-    "group": "Discoveries",
-    "sheet": null
-  },
-  {
-    "id": "cedar-box",
-    "section": "artifacts",
-    "title": "Cedar box",
-    "path": "content/artifacts/cedar-box.md",
-    "summary": "Found with a desk in the library, where the party discovered a cataloging system.",
-    "aliases": [],
-    "image": null,
-    "group": "Discoveries",
-    "sheet": null
-  },
-  {
-    "id": "world-map",
-    "section": "world",
-    "title": "Map of the known world",
-    "path": "content/world/world-map.md",
-    "summary": "Player-facing world map.",
-    "aliases": [],
-    "image": "images/world-map.jpg",
-    "group": "Maps",
     "sheet": null
   }
 ]

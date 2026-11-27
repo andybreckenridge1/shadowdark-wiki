@@ -1,0 +1,1 @@
+Celtic gods are connected to nature, including the sun, rivers, and forests; druids are their religious leaders. Shamans of remote Norse, Celtic, or Saxon tribes preserve ancient magic and commune with spirits.

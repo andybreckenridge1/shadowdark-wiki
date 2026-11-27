@@ -25,3 +25,7 @@ Everything in a public repository, including PDFs and older commits, is publicly
 
 ## Design notes
 Chronicles and world entries use the supplied prose; Kan-ye is standardized to Kayne, with Kanye retained as an alias. Character profiles and discovery entries summarize the supplied sheets and Session 1. Hop has a provisional entry from the narrative only. No portraits were invented. The title is provisional. Hover over highlighted terms for a short description, or click to open an entry. On touch screens, tap to open the entry. Search covers titles, aliases, summaries and prose.
+
+## Version 3 update
+
+Navigation: Chronicles, Quests, Characters, World, Pantheons, Artifacts. Player characters appear first. New quest and pantheon files are indexed in entries.json. Three former artifact files are no longer indexed and may be deleted from the repository.
